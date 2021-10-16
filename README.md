@@ -31,7 +31,6 @@ shinythemes - To spice up the app with some different themes and aesthetics.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [RShiny](https://shiny.rstudio.com/)
 * [Shiny Themes](https://rstudio.github.io/shinythemes/)
 * [Interactive Buttons](https://shiny.rstudio.com/articles/action-buttons.html)
