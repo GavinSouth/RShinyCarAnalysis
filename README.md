@@ -16,23 +16,26 @@ Q. I want to know how much three cars I love have improved (or not improve) thro
 
 Q. I wanted to use simple visual comparisons and regression lines to come to some conclusions about these cars and the pros and cons of each.
 
-Q. I want 
+Q. I wanted to find insights that were not immediate apparent by looking at car specs side by side, to find the not-immediately seen information hidden in data.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I programmed this app in Rstudio™ using R and a ShinyR script. 
 
-{Describe the programming language that you used and any libraries.}
+Libraries I used:
+DT - Formatting the data frame to display in the document in an inneractive.
+shiny - Library that includes the functions and tools to build and run the app.
+readxl - Library to read Excel files. In this case this is how I saved the data abd thus need to read in that form.
+tidyverse - The best and beastiest library for R. Used to do wrangling and building the interactive GGplot. 
+shinythemes - To spice up the app with some different themes and aesthetics. 
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [RShiny](https://shiny.rstudio.com/)
+* [Shiny Themes](https://rstudio.github.io/shinythemes/)
+* [Interactive Buttons](https://shiny.rstudio.com/articles/action-buttons.html)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* This needs to go more in depth with statistics and Rsquared values.
+* I need to find a way to upload this to the web and see if I can get some more feedback.
