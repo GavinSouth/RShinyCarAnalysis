@@ -8,7 +8,7 @@ R is a powerful and fun tool used to do data analytic and programming tasks amon
 
 I figured building a Shiny app to do a analytics presentation on something I'm VERY interested in would be a worthwile venture. In this doc I'll explain what I made and why I made it.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/YE-Ks1ZLOAg)
 
 # Data Analysis Results
 
